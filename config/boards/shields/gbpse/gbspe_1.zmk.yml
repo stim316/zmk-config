@@ -1,0 +1,12 @@
+file_format: "1"
+id: gbpse_1
+name: GBPSE
+type: shield
+url: https://github.com/stim31/gbpse/
+requires: [nice!nano_2]
+exposes: 
+features:
+  - keys
+siblings:
+  - gbpse_left
+  - gbpse_right
